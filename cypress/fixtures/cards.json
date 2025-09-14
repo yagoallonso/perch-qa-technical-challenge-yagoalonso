@@ -1,0 +1,31 @@
+{
+  "valid": {
+    "holder": "John Doe",
+    "number": "4111111111111111",
+    "expiry": "12/30",
+    "cvv": "123"
+  },
+  "invalid": [
+    {
+      "holder": "Jane Smith",
+      "number": "45",
+      "expiry": "12/30",
+      "cvv": "123",
+      "errorMessage": "Card number must be 16 digits"
+    },
+    {
+      "holder": "Alice Brown",
+      "number": "4111111111111111",
+      "expiry": "01/20",
+      "cvv": "123",
+      "errorMessage": "Expiry date must be in MM/YY format"
+    },
+    {
+      "holder": "Bob White",
+      "number": "4111111111111111",
+      "expiry": "12/30",
+      "cvv": "1",
+      "errorMessage": "CVV must be 3 or 4 digits"
+    }
+  ]
+}

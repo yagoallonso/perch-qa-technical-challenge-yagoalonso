@@ -26,6 +26,9 @@ module.exports = defineConfig({
     video: false,
     screenshotOnRunFailure: true,
     experimentalRunAllSpecs: true,
-    testIsolation: false
+    testIsolation: false,
+    env: {
+      TAGS: "not @skip"
+    }
   },
 });

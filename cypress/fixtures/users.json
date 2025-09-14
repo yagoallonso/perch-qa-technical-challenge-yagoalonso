@@ -1,0 +1,52 @@
+[
+  {
+    "firstname": "Yago Alonso",
+    "email": "yago.alonso@email.com",
+    "phone": "+55 11 91234-5678",
+    "street": "Rua das Flores, 123",
+    "city": "Sao Paulo",
+    "state": "SP",
+    "zipcode": "01001",
+    "country": "Brasil"
+  },
+  {
+    "firstname": "Ana Clara Souza",
+    "email": "ana.souza@email.com",
+    "phone": "+55 21 99876-5432",
+    "street": "Avenida Atlântica, 456",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "zipcode": "22010",
+    "country": "Brasil"
+  },
+  {
+    "firstname": "João Pedro Silva",
+    "email": "joao.silva@email.com",
+    "phone": "+55 31 93456-7890",
+    "street": "Praça da Liberdade, 789",
+    "city": "Belo Horizonte",
+    "state": "MG",
+    "zipcode": "30140",
+    "country": "Brasil"
+  },
+  {
+    "firstname": "Maria Fernanda Oliveira",
+    "email": "maria.oliveira@email.com",
+    "phone": "+55 41 97654-3210",
+    "street": "Rua XV de Novembro, 321",
+    "city": "Curitiba",
+    "state": "PR",
+    "zipcode": "80020",
+    "country": "Brasil"
+  },
+  {
+    "firstname": "Carlos Eduardo Santos",
+    "email": "carlos.santos@email.com",
+    "phone": "+55 51 98888-2222",
+    "street": "Avenida Ipiranga, 654",
+    "city": "Porto Alegre",
+    "state": "RS",
+    "zipcode": "90610",
+    "country": "Brasil"
+  }
+]
