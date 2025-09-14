@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "name": "Premium Leather Watch",
+      "price": 149.99,
+      "description": "Elegant leather watch with premium craftsmanship"
+    },
+    {
+      "name": "Wireless Headphones",
+      "price": 199.99,
+      "description": "High-quality wireless headphones with noise cancellation"
+    },
+    {
+      "name": "Classic White Sneakers",
+      "price": 79.99,
+      "description": "Comfortable and stylish white sneakers for everyday wear"
+    }
+  ]
+}
